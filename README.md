@@ -1,25 +1,24 @@
 
-# Project Title
+# RSS Cool
 
-A brief description of what this project does and who it's for
+A simple application built with React Native that tracks news updates by allowing users to enter an RSS feed URL and customize fetch intervals.
 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<p align="center">
+  <img src="https://github.com/iapheus/rss-cool/blob/main/image/rssCool1.jpg" height="400" style="display:inline-block;"/>
+  <img src="https://github.com/iapheus/rss-cool/blob/main/image/rssCool2.jpg" height="400" style="display:inline-block;"/>
+  <img src="https://github.com/iapheus/rss-cool/blob/main/image/rssCool3.jpg" height="400" style="display:inline-block;"/>
+  <img src="https://github.com/iapheus/rss-cool/blob/main/image/rssCool4.jpg" height="400" style="display:inline-block;"/>
+</p>
 
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
 - Cross platform
-
-
-## Demo
-
-Insert gif or link to demo
+- Automatically retrieves RSS feed data at customizable intervals
+- Light/dark mode toggle
 
 
 ## Run Locally
@@ -27,13 +26,13 @@ Insert gif or link to demo
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/iapheus/rss-cool.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd rss-cool
 ```
 
 Install dependencies
@@ -42,10 +41,10 @@ Install dependencies
   npm install
 ```
 
-Start the server
+Start the Metro Bundler
 
 ```bash
-  npm run start
+  npx expo
 ```
 
 
