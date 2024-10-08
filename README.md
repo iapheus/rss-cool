@@ -7,10 +7,10 @@ A simple application built with React Native that tracks news updates by allowin
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/iapheus/rss-cool/blob/main/image/rssCool1.jpg" height="400" style="display:inline-block;"/>
-  <img src="https://github.com/iapheus/rss-cool/blob/main/image/rssCool2.jpg" height="400" style="display:inline-block;"/>
-  <img src="https://github.com/iapheus/rss-cool/blob/main/image/rssCool3.jpg" height="400" style="display:inline-block;"/>
-  <img src="https://github.com/iapheus/rss-cool/blob/main/image/rssCool4.jpg" height="400" style="display:inline-block;"/>
+  <img src="https://github.com/iapheus/rss-cool/blob/main/image/rssCool1.jpg" height="300" style="display:inline-block;"/>
+  <img src="https://github.com/iapheus/rss-cool/blob/main/image/rssCool2.jpg" height="300" style="display:inline-block;"/>
+  <img src="https://github.com/iapheus/rss-cool/blob/main/image/rssCool3.jpg" height="300" style="display:inline-block;"/>
+  <img src="https://github.com/iapheus/rss-cool/blob/main/image/rssCool4.jpg" height="300" style="display:inline-block;"/>
 </p>
 
 
